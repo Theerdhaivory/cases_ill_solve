@@ -1,0 +1,21 @@
+h1{
+    background-color: pink;
+}
+
+div{
+    margin-bottom: 100px;
+    background-image: url("page.jpg");
+}
+
+
+h5{
+    font-size: 30px;
+    font-family: "Mali", cursive;
+}
+.outputs{
+    font-family: "Mali", cursive;
+}
+
+h1,h3{
+    font-family: "Playfair Display", serif;
+}
